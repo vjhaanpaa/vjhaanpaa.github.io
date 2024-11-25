@@ -21,23 +21,18 @@ instagram_username: "vjhaanpaa"
 #googleplus_username: +username
 
 # Build settings
-# theme: minima
-remote_theme: jekyll/minima
-
+theme: "minima"
+    
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
-
-minima:
-  skin: solarized
 
 rss: rss
 
 kramdown:
   syntax_highlighter_opts:
     disable: true
-    
+
 titles_from_headings:
   strip_title: true
   collections: true
