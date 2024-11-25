@@ -24,13 +24,13 @@ instagram_username: "vjhaanpaa"
 # theme: minima
 remote_theme: jekyll/minima
 
-minima:
-  skin: solarized
-
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
+
+minima:
+  skin: solarized
 
 rss: rss
 
