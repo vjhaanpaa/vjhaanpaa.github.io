@@ -3,13 +3,13 @@
 title: "V-J's 'Angry Old Man Yells At Clouds' Blog" 
 author: "Veli-Jussi Haanpää"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Write an awesome description for your new site here."
+  "<DESRIPTION> Write an awesome description for your new site here."
 
 #domain: "vjhaanpaa.github.io"
 #baseurl: "/vjhaanpaa.github.io/" # the subpath of your site, e.g. /blog
 #url: "https://vjhaanpaa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-#email: "your-email@example.com"
+email: "your-email@example.com"
 #twitter_username: "vjhaanpaa"
 github_username: "vjhaanpaa"
 linkedin_username: "vjhaanpaa"
@@ -22,6 +22,9 @@ instagram_username: "vjhaanpaa"
 
 # Build settings
 theme: "minima"
+
+minima:
+  skin: solarized
 
 rss: rss
 
