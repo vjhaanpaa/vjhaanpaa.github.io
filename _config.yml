@@ -16,7 +16,7 @@ timezone: Europe/Helsinki
 
 title: vjhaanpaa.dev # the main title
 
-tagline: V-J's ``Angry Old Man Yells At Clouds'' Blog # it will display as the subtitle
+tagline: V-J's "Angry Old Man Yells At Clouds" Blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
