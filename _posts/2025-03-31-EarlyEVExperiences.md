@@ -1,7 +1,7 @@
 ---
 title:      Early EV Experiences. # https://chirpy.cotes.page/posts/write-a-new-post/
 date:       2025-03-31 22:00:00 +/-0200
-categories: [car things, ev statistics]
+categories: [Car things, EV statistics]
 tags:       [ev, driving data]   # TAG names should always be lowercase
 author:     vjh
 toc:        false   # Set ToC off manually per post
@@ -25,6 +25,6 @@ Our home charger (roughly 0.07 €/kWh) and most third party charging stations (
 | 2025/02    | 1598          | 22.2                   | 62.54     | 139.41      |
 | 2025/03    | 1120          | 19.7                   | 19.47[^1] | 132.29      |
 | -------    | ----          | ----                   | -----     | ------      |
-| *averages* | 1359          | 21.0                   | 41.00     | 135.85      |
+| *averages* | *1359*        | *21.0*                 | *41.00*   | *135.85*    |
 
 [^1]: In the first half-a-month of owning the car, we were unable to charge at home, so the charging costs were up to five times as expensive with fast CCS chargers. In the second month we only charged at home, and mainly during the nights during the lowest tariff hours.
