@@ -77,7 +77,7 @@ Finally, reboot the *Pi* after the updates:
 sudo reboot
 ```
 
-### General guide for Ubuntu Server
+### General guide for *Ubuntu Server*
 
 For *Ubuntu Server*, you can follow [*Canonical*'s *Ubuntu Server* installation guide](https://ubuntu.com/tutorials/install-ubuntu-server#1-overview). But first, download [*Ubuntu Server*](https://ubuntu.com/download/server) (I prefer to go with long-term support releases to avoid some headache) and something like [*BalenaEtcher*](https://etcher.balena.io) to write the Live-USB.
 
@@ -251,7 +251,7 @@ Now you should be able to enter the *Pi-hole* admin panel at `http://[STATIC_IP]
 
 You should mostly have everything ready to go. One thing you should do is to update the block lists in "Group Management" > "Lists". You can source new ones to add from e.g. [*The Block List Project*](https://blocklistproject.github.io/Lists/). After you update the lists, remember to update *Gravity* from "System" > "Tools" > "Update Gravity" to fetch the new blocklists.
 
-## (Bonus:) Setting up Unbound
+## (Bonus:) Setting up *Unbound*
 
 As an extra step, you can configure the *Pi-hole* to use *unbound* as an upstream DNS server to further anonymise your traffic. See [the *unbound* documentation](https://docs.pi-hole.net/guides/dns/unbound/#what-does-this-guide-provide) for more info.
 
