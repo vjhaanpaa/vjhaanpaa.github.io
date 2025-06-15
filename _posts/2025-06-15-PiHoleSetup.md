@@ -247,7 +247,7 @@ sudo docker compose up -d
 
 ## Configuring the *Pi-hole*
 
-Now you should be able to enter the *Pi-hole* admin panel at <http://{STATIC_IP}/admin/login>, where `{STATIC_IP}` is the IP address you reserved for the device earlier.
+Now you should be able to enter the *Pi-hole* admin panel at `http://[STATIC_IP]/admin/login`, where `[STATIC_IP]` is the IP address you reserved for the device earlier.
 
 You should mostly have everything ready to go. One thing you should do is to update the block lists in "Group Management" > "Lists". You can source new ones to add from e.g. [*The Block List Project*](https://blocklistproject.github.io/Lists/). After you update the lists, remember to update *Gravity* from "System" > "Tools" > "Update Gravity" to fetch the new blocklists.
 
