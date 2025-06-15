@@ -34,7 +34,7 @@ You can run *Pi-hole* directly from a [supported OS](https://docs.pi-hole.net/ma
 
 ### General guide for a *Raspberry Pi*
 
-You can mostly just follow the guide that *Raspberry Pi* provides [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system). It is typically as simple as downloading the *Raspberry Pi Imager* and following its prompts. In short:
+You can mostly just follow [the installation guide that *Raspberry Pi* provides](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system). It is typically as simple as downloading the *Raspberry Pi Imager* and following its prompts. In short:
 
 1. Choose your device
 2. Choose your OS: *Raspberry Pi OS (other)* > *Raspberry Pi OS Lite (64-bit)*
@@ -205,7 +205,7 @@ The simple way to install *Pi-hole* is to just install it on top of the OS witho
 curl -sSL https://install.pi-hole.net | bash
 ```
 
-You are then ready to [jump into the next section](#configuring-the-pi-hole).
+You are then ready to jump into the next section to configure the *Pi-hole*.
 
 ### *Docker* installation
 
