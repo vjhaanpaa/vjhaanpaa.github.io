@@ -27,4 +27,6 @@ Our home charger (roughly 0.07 €/kWh) and most third party charging stations (
 | -------    | ----          | ----                   | -----     | ------      |
 | *averages* | *1359*        | *21.0*                 | *41.00*   | *135.85*    |
 
+---
+
 [^1]: In the first half-a-month of owning the car, we were unable to charge at home, so the charging costs were up to five times as expensive with fast CCS chargers. In the second month we only charged at home, and mainly during the nights during the lowest tariff hours.

@@ -299,6 +299,8 @@ You should now be able to browse faster with less ads. One website to test the *
 
 I have had various small issues every time I have set up a *Raspberry Pi* or any *Linux* distribution, and I assume everyone else has to tinker with these configurations as well. There are likely some parts of the guide that will throw errors, but just read the message and install the missing package or Google a solution. As a whole, the guide should work for anybody.
 
+---
+
 [^1]: This initial *Pi-hole* setup corrupted on me after a power failure. I suspect that in the five months, the continuos reading and writing on the microSD card wore it down and the card started to fail. If you are running the OS from the SD card, I would get some high-endurance card made for surveillance, etc., use like [this](https://shop.sandisk.com/en-ie/products/memory-cards/microsd-cards/wd-purple-qd102-microsd?sku=WDD032G1P0A-85WGF0).
 
 [^2]: I gave up with *Docker* here due to some unresolved connection issues. The admin panel loaded correctly, but for whatever reason I could not get the Docker container to connect online. Basically just a skill issue.
