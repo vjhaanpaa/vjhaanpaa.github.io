@@ -28,7 +28,7 @@ For the third criterion, I wanted to test if using *ImageOptim* makes a differen
 
 ## The Statistics
 
-Finally, it was down to comparing the image sizes:
+Finally, it was down to comparing the image sizes:[^3]
 
 | Image                        | ImageOptim? | Resizing? | SC Metadata removal? | *Size (bytes)* | % of orig. |
 | :--------------------------- | ----------- | --------- | -------------------- | -------------: | :--------- |
@@ -41,10 +41,9 @@ Finally, it was down to comparing the image sizes:
 
 ## The Conclusion
 
-Here is the final ImageOptim optimised and resized test image, an old holiday photo from Iceland in June 2015:[^3]
+Here is the final ImageOptim optimised and resized test image, an old holiday photo from Stöðvarfjörður, Iceland, from June 2015, shot on iPhone 6 Plus.:
 
 ![An image of the rocky coast in Stöðvarfjörður, Iceland.](<../assets/img/posts/2026/05/IO - 1024.jpeg>){: .left }
-*Stöðvarfjörður, Iceland. June 2015. Shot on iPhone 6 Plus.*
 
 So all in all, resizing the image down to 1024 pixels or less by maximum image dimension cuts the image size in this test case by roughly 88 %. Resizing the ImageOptim optimised image would be the best way to save space, since it looks like *Shortcuts* maybe writes some default values when removing the metadata.
 
